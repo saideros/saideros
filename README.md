@@ -60,16 +60,16 @@ Aquí se destacan los proyectos con un formato de lista más fácil de escanear:
 
 ---
 
-## 🔗 Conéctate Conmigo
+## 🔗 Conéctate Conmigo 🚀
 
 ### Encuéntrame en la Red:
 
-* **[LinkedIn]** – "Donde mis *commits* se convierten en conexiones profesionales."
-    > `[LinkedIn](Tu_Link_de_LinkedIn)`
-* **[Instagram]** – "Aquí solo publico mis *datasets* más bonitos (y alguna foto de café ☕)."
-    > `[Instagram](www.linkedin.com/in/santiago-said-hernandez-ab28a9289)`
-* **[Spotify]** – "Escuchando *playlists* que suenan a historia. 🎧"
-    > `[Spotify](https://open.spotify.com/user/31lygwvbi6snzhjcagg2jbwcspbi?si=7c33c37f23a745d8)`
+* **💙 [LinkedIn]** – Donde mis *commits* se convierten en conexiones profesionales.
+    > [LinkedIn](Tu_Link_de_LinkedIn)
+* **📸 [Instagram]** – Aquí solo publico mis *datasets* más bonitos (y alguna foto de café ☕).
+    > [Instagram](https://www.linkedin.com/in/santiago-said-hernandez-ab28a9289)
+* **🟢 [Spotify]** – Escuchando *playlists* que suenan a historia. 🎧
+    > [Spotify](https://open.spotify.com/user/31lygwvbi6snzhjcagg2jbwcspbi?si=7c33c37f23a745d8)
 
 ---
 
