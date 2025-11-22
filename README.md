@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner del Perfil de Said Osnaya" width="100%">
+</p>
+
 # Hola! Soy Said Osnaya 👋
 
 <p align="center">
