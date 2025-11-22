@@ -4,24 +4,15 @@
 
 # Hola! Soy Said Osnaya 👋
 
-<p align="center">
-  <a href="(Tu_Link_de_LinkedIn)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:(Tu Correo Electrónico)">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 Perfil Profesional
 
-### 🧠 Ingeniero de Machine Learning | Analista de Datos Full Stack | Desarrollador de APIs
+### 🧠 Ingeniero de Machine Learning | Analista de Datos | Desarrollador de APIs
 
-Soy un analista e ingeniero con especialización en **Machine Learning** y desarrollo de APIs robustas con **FastAPI**. Mi enfoque es transformar los procesos de negocio (productivos, logísticos, de RRHH) mediante la implementación de **soluciones de IA en Azure**.
+Soy un analista e ingeniero con especialización en **Machine Learning** y desarrollo de APIs robustas con **FastAPI**. Mi enfoque es transformar los procesos de negocio (productivos, logísticos, de RRHH) mediante la implementación de **soluciones de IA en Cloud y modelos locales**.
 
-> **Filosofía:** "Saber aprender para saber resolver."
+> **Filosofía:** "Dejar de adivinar es comenzar a saber"
 
 ---
 
@@ -69,12 +60,19 @@ Aquí se destacan los proyectos con un formato de lista más fácil de escanear:
 
 ---
 
-## 📈 Estadísticas de GitHub (Opcional)
+## 🔗 Conéctate Conmigo
 
-Puedes añadir tarjetas que muestren tus estadísticas de GitHub, lo cual es muy visual.
+### Encuéntrame en la Red:
 
-```markdown
+* **[LinkedIn]** – "Donde mis *commits* se convierten en conexiones profesionales."
+    > `[LinkedIn](Tu_Link_de_LinkedIn)`
+* **[Instagram]** – "Aquí solo publico mis *datasets* más bonitos (y alguna foto de café ☕)."
+    > `[Instagram](www.linkedin.com/in/santiago-said-hernandez-ab28a9289)`
+* **[Spotify]** – "Escuchando *playlists* que suenan a historia. 🎧"
+    > `[Spotify](https://open.spotify.com/user/31lygwvbi6snzhjcagg2jbwcspbi?si=7c33c37f23a745d8)`
+
+---
+
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=SaidOsnaya&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=SaidOsnaya&show_icons=true&theme=radical&hide_border=true&count_private=true)" alt="Said Osnaya GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SaidOsnaya&layout=compact&langs_count=8&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidOsnaya&layout=compact&langs_count=8&theme=radical&hide_border=true)" alt="Top Languages" />
+  ⭐ Gracias por tu visita. ¡Mira mis repositorios para ver el código!
 </p>
