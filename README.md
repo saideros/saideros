@@ -18,14 +18,12 @@ Soy un analista e ingeniero con especialización en **Machine Learning** y desar
 
 ## 🛠️ Stack Tecnológico (Skills)
 
-La sección de herramientas ahora usa **insignias** para un impacto visual instantáneo.
-
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Análisis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-FF3E00?style=flat-square&logo=polars&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **APIs & Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **BI & Viz** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-2391F0?style=flat-square&logo=plotly&logoColor=white) |
+| **BI & Viz** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-2391F0?style=flat-square&logo=plotly&logoColor=white) ![ChartJs](https://img.shields.io/npm/v/npm.svg?logo=chartdotjs) |
 | **Cloud & DB** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
