@@ -46,7 +46,7 @@ Soy un analista e ingeniero con especialización en **Machine Learning** y desar
 * **Función:** Verificación de identidad (firma de Tiempos Extras y servicio de comedor).
 * **Core:** Endpoint en **Python/FastAPI** utilizando `ArcFace` para el procesamiento rápido de imágenes.
 * **Tecnologías:** `Python`, `FastAPI`, `ArcFace`, `Scriptcase`.
-    > [Ver Detalles](Link_al_Repo_o_Documentación)
+    > [Ver Detalles](https://github.com/saideros/faceid-minimal)
 
 ### 4. 📈 Dashboard Full-Stack (Logística y Seguridad)
 * **Análisis:** Procesos SaaS, logísticos y de seguridad. Incluye **mapas de calor de rutas** e índices de retención/abandono (Churn Rate).
