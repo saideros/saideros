@@ -12,7 +12,7 @@
 
 Soy un analista e ingeniero con especialización en **Machine Learning** y desarrollo de APIs robustas con **FastAPI**. Mi enfoque es transformar los procesos de negocio (productivos, logísticos, de RRHH) mediante la implementación de **soluciones de IA en Cloud y modelos locales**.
 
-> **Filosofía:** "Dejar de adivinar es comenzar a saber"
+> **Filosofía:** "Dejar de adivinar es comenzar a aprender"
 
 ---
 
